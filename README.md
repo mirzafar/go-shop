@@ -1,1 +1,1 @@
-# go-shop
+# go-wishlist-add-to-cart
